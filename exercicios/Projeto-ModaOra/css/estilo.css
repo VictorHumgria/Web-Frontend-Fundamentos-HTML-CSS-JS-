@@ -1,0 +1,41 @@
+:root{
+    --back-top-header: #162028;
+    --color-text-menu: #425564;
+    --color-text: #555;
+    --colol-back-img-det: #003d52;
+    --color-back-footer: #0b171f;
+    --color-text-footer: #6f8597;
+}
+
+header{
+    background-color: var(--back-top-header);
+    justify-content: space-between;
+    color: white;
+}
+header nav a{
+    color: #425564;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: .8em;
+    letter-spacing: .15em;
+    transition: color .3s linear;
+}
+.logo-nav{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    
+}   
+.menu_header{
+    text-align: right;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.menu_header li{
+    list-style: none;
+    display: inline-block;
+    padding: 1em;
+    margin: 0 1em 0 0;
+
+}
