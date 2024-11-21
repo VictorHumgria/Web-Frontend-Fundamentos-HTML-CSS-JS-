@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Curso Web Design - Fundamentos (HTML, CSS e JavaScript)
 
 Bem-vindo(a) ao meu repositório de estudos do curso [Curso de Web Design - Fundamentos](https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/) da Udemy! 🚀
